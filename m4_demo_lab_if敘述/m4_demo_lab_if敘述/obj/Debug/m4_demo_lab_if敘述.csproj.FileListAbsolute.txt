@@ -1,9 +1,0 @@
-C:\Users\Student\Desktop\免費螢幕錄影軟體\nov_18_m4\m4_demo_lab_if敘述\m4_demo_lab_if敘述\bin\Debug\m4_demo_lab_if敘述.exe.config
-C:\Users\Student\Desktop\免費螢幕錄影軟體\nov_18_m4\m4_demo_lab_if敘述\m4_demo_lab_if敘述\bin\Debug\m4_demo_lab_if敘述.exe
-C:\Users\Student\Desktop\免費螢幕錄影軟體\nov_18_m4\m4_demo_lab_if敘述\m4_demo_lab_if敘述\bin\Debug\m4_demo_lab_if敘述.pdb
-C:\Users\Student\Desktop\免費螢幕錄影軟體\nov_18_m4\m4_demo_lab_if敘述\m4_demo_lab_if敘述\obj\Debug\m4_demo_lab_if敘述.csprojResolveAssemblyReference.cache
-C:\Users\Student\Desktop\免費螢幕錄影軟體\nov_18_m4\m4_demo_lab_if敘述\m4_demo_lab_if敘述\obj\Debug\m4_demo_lab_if敘述.exe
-C:\Users\Student\Desktop\免費螢幕錄影軟體\nov_18_m4\m4_demo_lab_if敘述\m4_demo_lab_if敘述\obj\Debug\m4_demo_lab_if敘述.pdb
-E:\C#\m4_demo_lab_if敘述\m4_demo_lab_if敘述\bin\Debug\m4_demo_lab_if敘述.exe.config
-E:\C#\m4_demo_lab_if敘述\m4_demo_lab_if敘述\obj\Debug\m4_demo_lab_if敘述.exe
-E:\C#\m4_demo_lab_if敘述\m4_demo_lab_if敘述\obj\Debug\m4_demo_lab_if敘述.pdb
