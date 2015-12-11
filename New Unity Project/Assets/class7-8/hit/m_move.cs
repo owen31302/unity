@@ -12,7 +12,7 @@ public class m_move : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		/*if(Input.GetKey(KeyCode.W)){
+		if(Input.GetKey(KeyCode.W)){
 			this.transform.position = this.transform.position + this.transform.forward*t;
 		} else if(Input.GetKey(KeyCode.S)) {
 			this.transform.position = this.transform.position - this.transform.forward*t;
@@ -20,14 +20,14 @@ public class m_move : MonoBehaviour {
 			this.transform.position = this.transform.position - this.transform.right*t;
 		}else if(Input.GetKey(KeyCode.D)) {
 			this.transform.position = this.transform.position + this.transform.right*t;
-		}*/
+		}
 
-		float fv = Input.GetAxis ("Vertical");
+		/*float fv = Input.GetAxis ("Vertical");
 		float fh = Input.GetAxis ("Horizontal");
-		Debug.Log (fv);
+		//Debug.Log (fv);
 		this.transform.position = this.transform.position + this.transform.forward * fv;
-		this.transform.position = this.transform.position + this.transform.right * fh; 
+		this.transform.position = this.transform.position + this.transform.right * fh; */
 
-		bool mbool = Input.GetButton ("Jump");
+		//bool mbool = Input.GetButton ("Jump");
 	}
 }
